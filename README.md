@@ -6,8 +6,13 @@ The optimal number of clusters, represented by the variable "K," was determined.
 The results of the two runs were compared, with the filtered data providing a clearer picture of the clusters. The project was implemented using Python 3.7 and utilizes the following packages: pandas, pyviz, hvplot, pathlib, KMeans from sklearn, PCA from sklearn, and StandardScaler from sklearn. To install the necessary dependencies, run the following commands: conda install -c pandas, conda install -c pathlib, and conda install -c sklearn.
 
 The code, along with examples of its output, can be found by cloning the repository. Feel free to experiment with different values of "K" or modify the charts to suit your needs. This project is open source and licensed for public use and modification. 
-
 Below are some visual examples:
+
+
+
+
+
+
 ![download](https://user-images.githubusercontent.com/116308725/215888161-66dd8f5e-e16f-4b7a-8c31-03dcec5b6a61.png)
 
 
